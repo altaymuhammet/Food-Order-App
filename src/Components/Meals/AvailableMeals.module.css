@@ -10,6 +10,15 @@
      margin: 0;
      padding: 0;
    }
+
+   .error {
+     width: 50%;
+     background-color: #fff;
+     margin: 30px auto;
+     padding: 10px 0;
+     border-radius: 15px;
+     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+   }
    
    @keyframes meals-appear {
      from {

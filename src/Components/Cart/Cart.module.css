@@ -44,3 +44,26 @@
      background-color: #8a2b06;
      color: white;
    }
+
+   .check {
+     width: 90%;
+     padding: 15px;
+     margin: 0 auto;
+     color: green;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+   }
+
+   .newOrder {
+     width: 50%;
+     padding: 15px 30px;
+     margin-top: 30px;
+     border: none;
+     border-radius: 10px;
+     cursor: pointer;
+     background-color: rgb(2, 112, 112);
+     color: white;
+     text-align: center;
+   }
